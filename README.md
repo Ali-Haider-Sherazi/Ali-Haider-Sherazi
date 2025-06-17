@@ -29,9 +29,6 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 ### 🛠 Tech Stack
 
 <p align="center">
@@ -43,7 +40,9 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ali-haider-sherazi&theme=flat&title=Followers,Stars,Commits,Repositories,PullRequest,Issues,Reviews&margin-w=10&margin-h=10" />
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 </p>
 
 ---
