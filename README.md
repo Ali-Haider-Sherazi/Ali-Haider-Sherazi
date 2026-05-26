@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="mailto:syedalisherazi55@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
-  <a href="https://www.linkedin.com/in/salisherazi/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <!-- <a href="https://www.linkedin.com/in/salisherazi/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a> -->
   <a href="https://x.com/not_ur_ali" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="30" /></a>
   <a href="https://stackoverflow.com/users/23283735/ali-sherazi" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" height="30" /></a>
   <a href="https://wa.me/923240053583" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
