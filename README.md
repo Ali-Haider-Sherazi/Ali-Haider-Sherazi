@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Ali Haider Sherazi</h1>
-<h3 align="center">Full-Stack Developer | Mobile App Engineer | AI Enthusiast | Desktop App Creator</h3>
+<h3 align="center">Full-Stack Website Developer | Web & Mobile App Developer | AI Enthusiast | Desktop App Creator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Web+%7C+Mobile+%7C+AI+%7C+Desktop+App+Developer;Building+Scalable+and+Smart+Solutions;Always+Learning+%7C+Clean+Code+Advocate" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 - 🧠 I build apps for **Web**, **Android & iOS**, **Desktop**, and explore **AI & ML** technologies
 - 💡 I enjoy solving complex problems with elegant and scalable solutions
-- 📈 30+ real-world projects delivered via **Upwork, Fiverr, LinkedIn**, and **GitHub**
+- 📈 40+ real-world projects delivered via **Upwork, Fiverr, LinkedIn**, and **GitHub**
 - 🔄 Constantly upgrading my stack and keeping up with modern dev practices
 - ✨ Strong believer in **clean code**, **testability**, and **performance**
 
@@ -75,7 +75,7 @@
 ### ✨ Extras
 
 - 🔐 **Authentication**: JWT, Firebase Auth, OAuth2
-- 📲 **Mobile**: React Native, Java/Kotlin, Flutter, Swift
+- 📲 **Website & Mobile App**: MERN, Next.js, React Native, Java/Kotlin, Flutter, Swift
 - 🧠 **AI/ML**: OpenAI API, Python Libraries, TensorFlow basics
 - 📦 **Deployment**: Vercel, Netlify, Heroku, Firebase Hosting, Play Store
 - 📂 **Version Control**: GitHub, GitLab, Bitbucket
